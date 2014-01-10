@@ -1,3 +1,3 @@
 # Be sure to restart your server when you modify this file.
 
-Spellcheck::Application.config.session_store :cookie_store, key: '_spellcheck_session'
+RailsSpellcheck::Application.config.session_store :cookie_store, key: '_rails_spellcheck_session'

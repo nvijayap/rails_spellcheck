@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Spellcheck::Application.load_tasks
+RailsSpellcheck::Application.load_tasks
